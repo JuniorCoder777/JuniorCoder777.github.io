@@ -1860,7 +1860,7 @@
                 "tests": 24610,
                 "population": 33966
             }, {
-                "country": "SÃ£o TomÃ© and PrÃ­ncipe",
+                "country": "São Tomé and Príncipe",
                 "confirmed": 1014,
                 "deaths": 17,
                 "recovered": 963,
@@ -5600,7 +5600,7 @@
             }, {
                 "confirmed": 2,
                 "deaths": -1,
-                "state": "USSÂ Boxer",
+                "state": "USS Boxer",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5612,7 +5612,7 @@
             }, {
                 "confirmed": 3,
                 "deaths": -1,
-                "state": "USSÂ Essex",
+                "state": "USS Essex",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5624,7 +5624,7 @@
             }, {
                 "confirmed": 1,
                 "deaths": -1,
-                "state": "USSÂ Ralph Johnson",
+                "state": "USS Ralph Johnson",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5636,7 +5636,7 @@
             }, {
                 "confirmed": 9,
                 "deaths": -1,
-                "state": "USSÂ Coronado",
+                "state": "USS Coronado",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5648,7 +5648,7 @@
             }, {
                 "confirmed": 1,
                 "deaths": -1,
-                "state": "USSÂ Carl Vinson",
+                "state": "USS Carl Vinson",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5684,7 +5684,7 @@
             }, {
                 "confirmed": 16,
                 "deaths": -1,
-                "state": "USSÂ Ronald Reagan",
+                "state": "USS Ronald Reagan",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5708,7 +5708,7 @@
             }, {
                 "confirmed": 2,
                 "deaths": -1,
-                "state": "USNSÂ Comfort",
+                "state": "USNS Comfort",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5720,7 +5720,7 @@
             }, {
                 "confirmed": 2,
                 "deaths": -1,
-                "state": "USSÂ Nimitz",
+                "state": "USS Nimitz",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5732,7 +5732,7 @@
             }, {
                 "confirmed": 7,
                 "deaths": -1,
-                "state": "USNSÂ Mercy",
+                "state": "USNS Mercy",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5744,7 +5744,7 @@
             }, {
                 "confirmed": 24,
                 "deaths": -1,
-                "state": "USSÂ Tripoli",
+                "state": "USS Tripoli",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5768,7 +5768,7 @@
             }, {
                 "confirmed": 96,
                 "deaths": -1,
-                "state": "USSÂ Kidd",
+                "state": "USS Kidd",
                 "country_code": "us",
                 "country": "United States",
                 "recovered": -1,
@@ -5780,7 +5780,7 @@
             }, {
                 "confirmed": 52,
                 "deaths": 2,
-                "state": "USNSÂ Leroy Grumman",
+                "state": "USNS Leroy Grumman",
                 "recovered": -1,
                 "critical": -1,
                 "tests": -1,
@@ -5790,7 +5790,7 @@
             }, {
                 "confirmed": 2,
                 "deaths": -1,
-                "state": "USSÂ Carter Hall",
+                "state": "USS Carter Hall",
                 "recovered": -1,
                 "critical": -1,
                 "tests": -1,
@@ -5800,7 +5800,7 @@
             }, {
                 "confirmed": 3,
                 "deaths": -1,
-                "state": "BRPÂ Jose Rizal",
+                "state": "BRP Jose Rizal",
                 "recovered": -1,
                 "critical": -1,
                 "tests": -1,
@@ -5810,7 +5810,7 @@
             }, {
                 "confirmed": 5,
                 "deaths": -1,
-                "state": "USSÂ San Diego",
+                "state": "USS San Diego",
                 "recovered": -1,
                 "critical": -1,
                 "tests": -1,
@@ -5820,7 +5820,7 @@
             }, {
                 "confirmed": 1,
                 "deaths": -1,
-                "state": "USSÂ George H.W. Bush",
+                "state": "USS George H.W. Bush",
                 "recovered": -1,
                 "critical": -1,
                 "tests": -1,
